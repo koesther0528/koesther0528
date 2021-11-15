@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=sudoll&fontSize=90)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koesther0528&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koesther0528&show_icons=true&theme=radical)
-

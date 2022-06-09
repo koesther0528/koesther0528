@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=300&section=header&text=♡sudoll♡&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=300&section=header&text=sudoll&fontSize=90)
 <p>
   
 ## ♡ABOUT ME♡

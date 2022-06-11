@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sudoll&fontSize=90&animation=fadeIn&fontAlignY=38&desc=esther's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 <br>
 
+## ABOUT ME
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ko990727@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/ko502804)
+<br/>
+
 ## ♡SKILLS♡
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

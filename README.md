@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=ᔕᑌᗪOᒪᒪ&fontSize=90&animation=fadeIn&fontAlignY=38&desc=EᔕTᕼEᖇ'ᔕ%20GITᕼᑌᗷ%20ᑭᖇOᖴIᒪE&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=ꜱᴜᴅᴏʟʟ&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Eꜱᴛʜᴇʀ'ꜱ%20GITHUB%20PROFILE&descAlignY=51&descAlign=62)
 <br>
 
-## ᗩᗷOᑌT ᗰE
+## ABOUT ME
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ko990727@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/ko502804)
 <br/>
 
-## ᔕKIᒪᒪᔕ
+## SKILLS
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 
-## ᒪᗩᑎGᑌᗩGE
+## LANGUAGE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
